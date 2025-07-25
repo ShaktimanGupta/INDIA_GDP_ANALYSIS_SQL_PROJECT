@@ -1,4 +1,4 @@
-# 🇮🇳 Indian GDP Analysis (1960–2021) using SQL
+# Indian GDP Analysis (1960–2021) using SQL
 
 This project is a comprehensive SQL-based data analytics exercise focused on analyzing the **GDP trends of India from 1960 to 2021**. It dives into key economic indicators like GDP in billions, per capita income, and growth percentages across decades.
 
